@@ -16,21 +16,16 @@ Make sure you have the following installed:
    Open your terminal, navigate to the directory where you want to store the project, and run:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/ONtio-js/assesment.git)
    ```
 
-   Replace `<repository-url>` with the URL of the GitHub repository. For example:
-
-   ```bash
-   git clone https://github.com/username/project-name.git
-   ```
 
 2. **Navigate to the Project Directory**
 
    After cloning, move into the project directory:
 
    ```bash
-   cd project-name
+   cd assesment
    ```
 
 3. **Install Dependencies**
