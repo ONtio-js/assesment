@@ -16,7 +16,7 @@ Make sure you have the following installed:
    Open your terminal, navigate to the directory where you want to store the project, and run:
 
    ```bash
-   git clone [<repository-url>](https://github.com/ONtio-js/assesment.git)
+   git clone https://github.com/ONtio-js/assesment.git
    ```
 
 
